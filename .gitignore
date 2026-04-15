@@ -1,0 +1,17 @@
+# Compiled class files
+out/
+*.class
+
+# SQLite database (auto-generated at runtime)
+food_delivery.db
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
